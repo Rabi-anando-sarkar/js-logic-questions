@@ -19,4 +19,4 @@ const factorial = (num) => {
     return fact
 }
 
-console.log(factorial(76));
+console.log(factorial(6));
