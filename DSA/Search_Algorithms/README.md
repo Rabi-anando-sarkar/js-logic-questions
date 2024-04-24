@@ -25,8 +25,8 @@
 ### Big-O of Linear search fucntion
 
 > Answer : Big-O O(n) : Linear
- 
- # 2. Binary Search
+
+# 2. Binary Search
 
 ### Binary search pseudocode
 
