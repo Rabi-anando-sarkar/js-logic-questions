@@ -1,0 +1,61 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+section {
+    text-align: center; /* Center text horizontally */
+    padding: 20px; /* Padding around content */
+}
+
+.copyCode {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-size: 1.8rem;
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+    border-left: 3px solid #fff;
+    background-color: rgba(189,189,189,0.1);
+    padding: 15px 8px 15px 17px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#myButtonOne {
+    margin: 10px; /* Space between buttons */
+    padding: 10px 20px; /* Padding for the button */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #e0e0e0; /* Light gray color */
+    cursor: pointer; /* Pointer cursor on hover */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);  
+}
+#myButtonTwo {
+    margin: 10px; /* Space between buttons */
+    padding: 10px 20px; /* Padding for the button */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #e0e0e0; /* Light gray color */
+    cursor: pointer; /* Pointer cursor on hover */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);  
+}
+
+.copyCode {
+    cursor: pointer; 
+}
+
