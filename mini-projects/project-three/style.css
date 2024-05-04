@@ -1,0 +1,55 @@
+
+.api_body {
+    margin-top: 20px;
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.todo-item {
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #e6f2ff;
+    border: 1px solid #cce7ff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.todo-item:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+}
+
+h2, h3, h4 {
+    margin: 5px 0;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+h2 {
+    color: #00509d;
+}
+
+h3 {
+    color: #333;
+}
+
+h4 {
+    color: #555;
+}
+
+.fetch-button {
+    padding: 10px 15px;
+    background-color: #00509d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.fetch-button:hover {
+    background-color: #003d73;
+}
